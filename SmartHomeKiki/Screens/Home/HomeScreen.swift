@@ -8,11 +8,7 @@
 import SwiftUI
 import AVKit
 
-
-
 class HomeViewModel: ObservableObject {
-    
-//    @Published var target: NeoMorphisimHomeScreen.Target = .room
     @Published private(set) var rooms = Room.rooms
     @Published private(set) var gotoRoomDetails: Bool = false
     @Published var selectedRoom: Room? = nil
