@@ -11,6 +11,38 @@
 		CA14C2732862FF77008E7ED0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2722862FF77008E7ED0 /* ContentView.swift */; };
 		CA14C2752862FF7A008E7ED0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2742862FF7A008E7ED0 /* Assets.xcassets */; };
 		CA14C2782862FF7A008E7ED0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2772862FF7A008E7ED0 /* Preview Assets.xcassets */; };
+		CA14C28428630014008E7ED0 /* Asset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28228630014008E7ED0 /* Asset.swift */; };
+		CA14C28528630014008E7ED0 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28328630014008E7ED0 /* Theme.swift */; };
+		CA14C28C28630032008E7ED0 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28828630032008E7ED0 /* Color+Extension.swift */; };
+		CA14C28D28630032008E7ED0 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28928630032008E7ED0 /* Date+Extension.swift */; };
+		CA14C28E28630032008E7ED0 /* Image+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28A28630032008E7ED0 /* Image+Extension.swift */; };
+		CA14C28F28630032008E7ED0 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C28B28630032008E7ED0 /* Bundle+Extension.swift */; };
+		CA14C2982863005A008E7ED0 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C29228630059008E7ED0 /* Inter-Light.ttf */; };
+		CA14C2992863005A008E7ED0 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C29328630059008E7ED0 /* Inter-Bold.ttf */; };
+		CA14C29A2863005A008E7ED0 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2942863005A008E7ED0 /* Inter-Regular.ttf */; };
+		CA14C29B2863005A008E7ED0 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2952863005A008E7ED0 /* Inter-Medium.ttf */; };
+		CA14C29C2863005A008E7ED0 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2962863005A008E7ED0 /* Inter-SemiBold.ttf */; };
+		CA14C29D2863005A008E7ED0 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2972863005A008E7ED0 /* Inter-Thin.ttf */; };
+		CA14C2A028630163008E7ED0 /* Topography.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C29F28630163008E7ED0 /* Topography.swift */; };
+		CA14C2AC28632532008E7ED0 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2AB28632532008E7ED0 /* HomeScreen.swift */; };
+		CA14C2AF28632DB8008E7ED0 /* Lineargradient+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2AE28632DB8008E7ED0 /* Lineargradient+Extension.swift */; };
+		CA14C2B2286332A6008E7ED0 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2B1286332A6008E7ED0 /* Room.swift */; };
+		CA14C2B8286441D8008E7ED0 /* CustomCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2B7286441D8008E7ED0 /* CustomCorners.swift */; };
+		CA14C2BB28644205008E7ED0 /* RoomCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2BA28644205008E7ED0 /* RoomCard.swift */; };
+		CA14C2BE2864422D008E7ED0 /* WeatherItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2BD2864422D008E7ED0 /* WeatherItem.swift */; };
+		CA14C2C128644362008E7ED0 /* TabbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2C028644362008E7ED0 /* TabbarView.swift */; };
+		CA14C2C5286450AC008E7ED0 /* TabbarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2C4286450AB008E7ED0 /* TabbarItem.swift */; };
+		CA14C2C8286456F6008E7ED0 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2C7286456F6008E7ED0 /* View+Extension.swift */; };
+		CA14C2CC28646848008E7ED0 /* MainTabbarScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2CB28646848008E7ED0 /* MainTabbarScreen.swift */; };
+		CA14C2D128646B39008E7ED0 /* RoomDetailsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2D028646B39008E7ED0 /* RoomDetailsScreen.swift */; };
+		CA14C2D628646BD7008E7ED0 /* RoomControlScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2D528646BD7008E7ED0 /* RoomControlScreen.swift */; };
+		CA14C2DD28646C17008E7ED0 /* FunctionalityButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2D828646C17008E7ED0 /* FunctionalityButton.swift */; };
+		CA14C2DE28646C17008E7ED0 /* SmartToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2D928646C17008E7ED0 /* SmartToggle.swift */; };
+		CA14C2DF28646C17008E7ED0 /* InfoLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2DA28646C17008E7ED0 /* InfoLabel.swift */; };
+		CA14C2E028646C17008E7ED0 /* AppToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2DB28646C17008E7ED0 /* AppToggle.swift */; };
+		CA14C2E128646C17008E7ED0 /* TempretureRadial.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2DC28646C17008E7ED0 /* TempretureRadial.swift */; };
+		CA14C2E428647E15008E7ED0 /* song1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA14C2E328647E15008E7ED0 /* song1.mp3 */; };
+		CA14C2E7286482FD008E7ED0 /* TimeInterval+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA14C2E6286482FD008E7ED0 /* TimeInterval+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +52,38 @@
 		CA14C2742862FF7A008E7ED0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA14C2772862FF7A008E7ED0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA14C2792862FF7A008E7ED0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA14C28228630014008E7ED0 /* Asset.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Asset.swift; sourceTree = "<group>"; };
+		CA14C28328630014008E7ED0 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		CA14C28828630032008E7ED0 /* Color+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		CA14C28928630032008E7ED0 /* Date+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		CA14C28A28630032008E7ED0 /* Image+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Image+Extension.swift"; sourceTree = "<group>"; };
+		CA14C28B28630032008E7ED0 /* Bundle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
+		CA14C29228630059008E7ED0 /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		CA14C29328630059008E7ED0 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		CA14C2942863005A008E7ED0 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		CA14C2952863005A008E7ED0 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		CA14C2962863005A008E7ED0 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		CA14C2972863005A008E7ED0 /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		CA14C29F28630163008E7ED0 /* Topography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Topography.swift; sourceTree = "<group>"; };
+		CA14C2AB28632532008E7ED0 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		CA14C2AE28632DB8008E7ED0 /* Lineargradient+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lineargradient+Extension.swift"; sourceTree = "<group>"; };
+		CA14C2B1286332A6008E7ED0 /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		CA14C2B7286441D8008E7ED0 /* CustomCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorners.swift; sourceTree = "<group>"; };
+		CA14C2BA28644205008E7ED0 /* RoomCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomCard.swift; sourceTree = "<group>"; };
+		CA14C2BD2864422D008E7ED0 /* WeatherItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherItem.swift; sourceTree = "<group>"; };
+		CA14C2C028644362008E7ED0 /* TabbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarView.swift; sourceTree = "<group>"; };
+		CA14C2C4286450AB008E7ED0 /* TabbarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarItem.swift; sourceTree = "<group>"; };
+		CA14C2C7286456F6008E7ED0 /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		CA14C2CB28646848008E7ED0 /* MainTabbarScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabbarScreen.swift; sourceTree = "<group>"; };
+		CA14C2D028646B39008E7ED0 /* RoomDetailsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomDetailsScreen.swift; sourceTree = "<group>"; };
+		CA14C2D528646BD7008E7ED0 /* RoomControlScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomControlScreen.swift; sourceTree = "<group>"; };
+		CA14C2D828646C17008E7ED0 /* FunctionalityButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FunctionalityButton.swift; sourceTree = "<group>"; };
+		CA14C2D928646C17008E7ED0 /* SmartToggle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SmartToggle.swift; sourceTree = "<group>"; };
+		CA14C2DA28646C17008E7ED0 /* InfoLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoLabel.swift; sourceTree = "<group>"; };
+		CA14C2DB28646C17008E7ED0 /* AppToggle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppToggle.swift; sourceTree = "<group>"; };
+		CA14C2DC28646C17008E7ED0 /* TempretureRadial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TempretureRadial.swift; sourceTree = "<group>"; };
+		CA14C2E328647E15008E7ED0 /* song1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song1.mp3; sourceTree = "<group>"; };
+		CA14C2E6286482FD008E7ED0 /* TimeInterval+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TimeInterval+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +116,11 @@
 		CA14C26F2862FF77008E7ED0 /* SmartHomeKiki */ = {
 			isa = PBXGroup;
 			children = (
-				CA14C2702862FF77008E7ED0 /* SmartHomeKikiApp.swift */,
-				CA14C2722862FF77008E7ED0 /* ContentView.swift */,
-				CA14C2742862FF7A008E7ED0 /* Assets.xcassets */,
+				CA14C2802862FF83008E7ED0 /* Resources */,
+				CA14C28728630019008E7ED0 /* Extensions */,
+				CA14C2A8286324F1008E7ED0 /* Models */,
+				CA14C2A6286324E2008E7ED0 /* Views */,
+				CA14C2A7286324EB008E7ED0 /* Screens */,
 				CA14C2792862FF7A008E7ED0 /* Info.plist */,
 				CA14C2762862FF7A008E7ED0 /* Preview Content */,
 			);
@@ -67,6 +133,116 @@
 				CA14C2772862FF7A008E7ED0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CA14C2802862FF83008E7ED0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C29128630042008E7ED0 /* Fonts */,
+				CA14C2702862FF77008E7ED0 /* SmartHomeKikiApp.swift */,
+				CA14C2722862FF77008E7ED0 /* ContentView.swift */,
+				CA14C2742862FF7A008E7ED0 /* Assets.xcassets */,
+				CA14C28228630014008E7ED0 /* Asset.swift */,
+				CA14C28328630014008E7ED0 /* Theme.swift */,
+				CA14C29F28630163008E7ED0 /* Topography.swift */,
+				CA14C2E328647E15008E7ED0 /* song1.mp3 */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CA14C28728630019008E7ED0 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C28B28630032008E7ED0 /* Bundle+Extension.swift */,
+				CA14C28828630032008E7ED0 /* Color+Extension.swift */,
+				CA14C28928630032008E7ED0 /* Date+Extension.swift */,
+				CA14C28A28630032008E7ED0 /* Image+Extension.swift */,
+				CA14C2AE28632DB8008E7ED0 /* Lineargradient+Extension.swift */,
+				CA14C2C7286456F6008E7ED0 /* View+Extension.swift */,
+				CA14C2E6286482FD008E7ED0 /* TimeInterval+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		CA14C29128630042008E7ED0 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C29328630059008E7ED0 /* Inter-Bold.ttf */,
+				CA14C29228630059008E7ED0 /* Inter-Light.ttf */,
+				CA14C2952863005A008E7ED0 /* Inter-Medium.ttf */,
+				CA14C2942863005A008E7ED0 /* Inter-Regular.ttf */,
+				CA14C2962863005A008E7ED0 /* Inter-SemiBold.ttf */,
+				CA14C2972863005A008E7ED0 /* Inter-Thin.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		CA14C2A6286324E2008E7ED0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2DB28646C17008E7ED0 /* AppToggle.swift */,
+				CA14C2D828646C17008E7ED0 /* FunctionalityButton.swift */,
+				CA14C2DA28646C17008E7ED0 /* InfoLabel.swift */,
+				CA14C2D928646C17008E7ED0 /* SmartToggle.swift */,
+				CA14C2DC28646C17008E7ED0 /* TempretureRadial.swift */,
+				CA14C2B7286441D8008E7ED0 /* CustomCorners.swift */,
+				CA14C2BA28644205008E7ED0 /* RoomCard.swift */,
+				CA14C2BD2864422D008E7ED0 /* WeatherItem.swift */,
+				CA14C2C028644362008E7ED0 /* TabbarView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CA14C2A7286324EB008E7ED0 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2CA28646830008E7ED0 /* MainTabbar */,
+				CA14C2AA28632526008E7ED0 /* Home */,
+				CA14C2CF28646B1D008E7ED0 /* RoomDetails */,
+				CA14C2D428646BBD008E7ED0 /* RoomControl */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		CA14C2A8286324F1008E7ED0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2B1286332A6008E7ED0 /* Room.swift */,
+				CA14C2C4286450AB008E7ED0 /* TabbarItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CA14C2AA28632526008E7ED0 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2AB28632532008E7ED0 /* HomeScreen.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		CA14C2CA28646830008E7ED0 /* MainTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2CB28646848008E7ED0 /* MainTabbarScreen.swift */,
+			);
+			path = MainTabbar;
+			sourceTree = "<group>";
+		};
+		CA14C2CF28646B1D008E7ED0 /* RoomDetails */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2D028646B39008E7ED0 /* RoomDetailsScreen.swift */,
+			);
+			path = RoomDetails;
+			sourceTree = "<group>";
+		};
+		CA14C2D428646BBD008E7ED0 /* RoomControl */ = {
+			isa = PBXGroup;
+			children = (
+				CA14C2D528646BD7008E7ED0 /* RoomControlScreen.swift */,
+			);
+			path = RoomControl;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +303,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA14C2782862FF7A008E7ED0 /* Preview Assets.xcassets in Resources */,
+				CA14C2E428647E15008E7ED0 /* song1.mp3 in Resources */,
+				CA14C29A2863005A008E7ED0 /* Inter-Regular.ttf in Resources */,
+				CA14C29B2863005A008E7ED0 /* Inter-Medium.ttf in Resources */,
+				CA14C2982863005A008E7ED0 /* Inter-Light.ttf in Resources */,
+				CA14C29D2863005A008E7ED0 /* Inter-Thin.ttf in Resources */,
+				CA14C2992863005A008E7ED0 /* Inter-Bold.ttf in Resources */,
 				CA14C2752862FF7A008E7ED0 /* Assets.xcassets in Resources */,
+				CA14C29C2863005A008E7ED0 /* Inter-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +321,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA14C28E28630032008E7ED0 /* Image+Extension.swift in Sources */,
+				CA14C2DD28646C17008E7ED0 /* FunctionalityButton.swift in Sources */,
+				CA14C2B8286441D8008E7ED0 /* CustomCorners.swift in Sources */,
+				CA14C2C5286450AC008E7ED0 /* TabbarItem.swift in Sources */,
+				CA14C2DE28646C17008E7ED0 /* SmartToggle.swift in Sources */,
+				CA14C2C128644362008E7ED0 /* TabbarView.swift in Sources */,
+				CA14C2DF28646C17008E7ED0 /* InfoLabel.swift in Sources */,
+				CA14C2BE2864422D008E7ED0 /* WeatherItem.swift in Sources */,
+				CA14C28428630014008E7ED0 /* Asset.swift in Sources */,
+				CA14C28C28630032008E7ED0 /* Color+Extension.swift in Sources */,
+				CA14C2BB28644205008E7ED0 /* RoomCard.swift in Sources */,
+				CA14C28F28630032008E7ED0 /* Bundle+Extension.swift in Sources */,
+				CA14C2E028646C17008E7ED0 /* AppToggle.swift in Sources */,
+				CA14C28528630014008E7ED0 /* Theme.swift in Sources */,
+				CA14C2AF28632DB8008E7ED0 /* Lineargradient+Extension.swift in Sources */,
 				CA14C2732862FF77008E7ED0 /* ContentView.swift in Sources */,
+				CA14C2B2286332A6008E7ED0 /* Room.swift in Sources */,
+				CA14C2D128646B39008E7ED0 /* RoomDetailsScreen.swift in Sources */,
+				CA14C2AC28632532008E7ED0 /* HomeScreen.swift in Sources */,
+				CA14C2CC28646848008E7ED0 /* MainTabbarScreen.swift in Sources */,
 				CA14C2712862FF77008E7ED0 /* SmartHomeKikiApp.swift in Sources */,
+				CA14C28D28630032008E7ED0 /* Date+Extension.swift in Sources */,
+				CA14C2C8286456F6008E7ED0 /* View+Extension.swift in Sources */,
+				CA14C2D628646BD7008E7ED0 /* RoomControlScreen.swift in Sources */,
+				CA14C2A028630163008E7ED0 /* Topography.swift in Sources */,
+				CA14C2E128646C17008E7ED0 /* TempretureRadial.swift in Sources */,
+				CA14C2E7286482FD008E7ED0 /* TimeInterval+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
